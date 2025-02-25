@@ -13,11 +13,11 @@ bookSearchExclude: true
 ---
 Here you can see a list of all the decks that are available to borrow, you can either see them on the left side of the page under *"Decks"*, or you can see them in the table below, you just need to click the link.
 
-| Name             | Deck Talk                   | Card List                                                     |
-| ---------------- | --------------------------- | ------------------------------------------------------------- |
-| Cycle Storm      | [Page]({{< ref "deck1" >}}) | [Moxified](https://moxfield.com/decks/aUq4djohF0S3PWPOwrVGhQ) |
-| Breathless       | [Page]({{< ref "deck2" >}}) | [Moxified](https://moxfield.com/decks/c7JOg7Io2UOYFfvOrvrgzQ) |
-| Azban Reanimator | [Page]({{< ref "deck3" >}}) | [Moxified](https://moxfield.com/decks/fOHBIlqoJ0GrY8o-gslVFA) |
+| Name             | Deck Talk                   | Card List                                                     | By        |
+| ---------------- | --------------------------- | ------------------------------------------------------------- | --------- |
+| Cycle Storm      | [Page]({{< ref "deck1" >}}) | [Moxified](https://moxfield.com/decks/aUq4djohF0S3PWPOwrVGhQ) | Anonymous |
+| Breathless       | [Page]({{< ref "deck2" >}}) | [Moxified](https://moxfield.com/decks/c7JOg7Io2UOYFfvOrvrgzQ) | Anonymous |
+| Azban Reanimator | [Page]({{< ref "deck3" >}}) | [Moxified](https://moxfield.com/decks/fOHBIlqoJ0GrY8o-gslVFA) | Anonymous |
 
 # Here is a Lorem Ipsum just to pad
 ---
