@@ -1,4 +1,4 @@
-baseURL = 'https://mtg.cephalonlux.com/decklist-test/'
+baseURL = 'https://mtg.cephalonlux.com/'
 languageCode = 'en-us'
 title = 'Spezl Borrow Decks'
 theme = 'hugo-book'
