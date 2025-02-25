@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homepage on Spezl Borrow Decks</title>
+    <link>http://localhost:1313/decklist-test.github.io/</link>
+    <description>Recent content in Homepage on Spezl Borrow Decks</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/decklist-test.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test Page 01</title>
+      <link>http://localhost:1313/decklist-test.github.io/docs/stuff/page1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/decklist-test.github.io/docs/stuff/page1/</guid>
+      <description>&lt;h1 id=&#34;here-is-the-homepage&#34;&gt;&#xD;&#xA;  Here is the Homepage&#xD;&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#here-is-the-homepage&#34;&gt;#&lt;/a&gt;&#xD;&#xA;&lt;/h1&gt;&#xD;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris ut libero enim. Aliquam venenatis arcu nec urna molestie mollis. Sed malesuada mauris quis elit consectetur aliquam. Cras vel ante ex. Vivamus accumsan ut mi eget molestie. Nunc sollicitudin vulputate pretium. Donec suscipit, ipsum eu dictum ornare, risus risus hendrerit sapien, non rhoncus massa justo in urna. Suspendisse eget finibus sem, in eleifend leo. Vivamus ultrices hendrerit tellus ac mollis.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Azban Reanimate</title>
+      <link>http://localhost:1313/decklist-test.github.io/docs/decks/deck3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/decklist-test.github.io/docs/decks/deck3/</guid>
+      <description>&lt;h1 id=&#34;deck-03-homepage&#34;&gt;&#xD;&#xA;  Deck 03 Homepage&#xD;&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#deck-03-homepage&#34;&gt;#&lt;/a&gt;&#xD;&#xA;&lt;/h1&gt;&#xD;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris ut libero enim. Aliquam venenatis arcu nec urna molestie mollis. Sed malesuada mauris quis elit consectetur aliquam. Cras vel ante ex. Vivamus accumsan ut mi eget molestie. Nunc sollicitudin vulputate pretium. Donec suscipit, ipsum eu dictum ornare, risus risus hendrerit sapien, non rhoncus massa justo in urna. Suspendisse eget finibus sem, in eleifend leo. Vivamus ultrices hendrerit tellus ac mollis.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Breathless</title>
+      <link>http://localhost:1313/decklist-test.github.io/docs/decks/deck2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/decklist-test.github.io/docs/decks/deck2/</guid>
+      <description>&lt;h1 id=&#34;deck-02-homepage&#34;&gt;&#xD;&#xA;  Deck 02 Homepage&#xD;&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#deck-02-homepage&#34;&gt;#&lt;/a&gt;&#xD;&#xA;&lt;/h1&gt;&#xD;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris ut libero enim. Aliquam venenatis arcu nec urna molestie mollis. Sed malesuada mauris quis elit consectetur aliquam. Cras vel ante ex. Vivamus accumsan ut mi eget molestie. Nunc sollicitudin vulputate pretium. Donec suscipit, ipsum eu dictum ornare, risus risus hendrerit sapien, non rhoncus massa justo in urna. Suspendisse eget finibus sem, in eleifend leo. Vivamus ultrices hendrerit tellus ac mollis.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Cycle Storm</title>
+      <link>http://localhost:1313/decklist-test.github.io/docs/decks/deck1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/decklist-test.github.io/docs/decks/deck1/</guid>
+      <description>&lt;h1 id=&#34;deck-01-homepage&#34;&gt;&#xD;&#xA;  Deck 01 Homepage&#xD;&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#deck-01-homepage&#34;&gt;#&lt;/a&gt;&#xD;&#xA;&lt;/h1&gt;&#xD;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris ut libero enim. Aliquam venenatis arcu nec urna molestie mollis. Sed malesuada mauris quis elit consectetur aliquam. Cras vel ante ex. Vivamus accumsan ut mi eget molestie. Nunc sollicitudin vulputate pretium. Donec suscipit, ipsum eu dictum ornare, risus risus hendrerit sapien, non rhoncus massa justo in urna. Suspendisse eget finibus sem, in eleifend leo. Vivamus ultrices hendrerit tellus ac mollis.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://localhost:1313/decklist-test.github.io/docs/decks/</loc>
+  </url><url>
+    <loc>http://localhost:1313/decklist-test.github.io/</loc>
+  </url><url>
+    <loc>http://localhost:1313/decklist-test.github.io/docs/stuff/page1/</loc>
+  </url><url>
+    <loc>http://localhost:1313/decklist-test.github.io/docs/stuff/</loc>
+  </url><url>
+    <loc>http://localhost:1313/decklist-test.github.io/docs/decks/deck3/</loc>
+  </url><url>
+    <loc>http://localhost:1313/decklist-test.github.io/docs/decks/deck2/</loc>
+  </url><url>
+    <loc>http://localhost:1313/decklist-test.github.io/docs/decks/deck1/</loc>
+  </url><url>
+    <loc>http://localhost:1313/decklist-test.github.io/docs/</loc>
+  </url>
+</urlset>

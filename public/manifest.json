@@ -1,0 +1,15 @@
+{
+  "name": "Spezl Borrow Decks",
+  "short_name": "Spezl Borrow Decks",
+  "start_url": "/decklist-test.github.io/",
+  "scope": "/decklist-test.github.io/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "/decklist-test.github.io/favicon.svg",
+      "sizes": "512x512"
+    }
+  ]
+}

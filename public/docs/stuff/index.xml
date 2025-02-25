@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Stuff on Spezl Borrow Decks</title>
+    <link>http://localhost:1313/decklist-test.github.io/docs/stuff/</link>
+    <description>Recent content in Stuff on Spezl Borrow Decks</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/decklist-test.github.io/docs/stuff/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test Page 01</title>
+      <link>http://localhost:1313/decklist-test.github.io/docs/stuff/page1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/decklist-test.github.io/docs/stuff/page1/</guid>
+      <description>&lt;h1 id=&#34;here-is-the-homepage&#34;&gt;&#xD;&#xA;  Here is the Homepage&#xD;&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#here-is-the-homepage&#34;&gt;#&lt;/a&gt;&#xD;&#xA;&lt;/h1&gt;&#xD;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris ut libero enim. Aliquam venenatis arcu nec urna molestie mollis. Sed malesuada mauris quis elit consectetur aliquam. Cras vel ante ex. Vivamus accumsan ut mi eget molestie. Nunc sollicitudin vulputate pretium. Donec suscipit, ipsum eu dictum ornare, risus risus hendrerit sapien, non rhoncus massa justo in urna. Suspendisse eget finibus sem, in eleifend leo. Vivamus ultrices hendrerit tellus ac mollis.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
